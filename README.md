@@ -15,13 +15,13 @@ Savor food review
 - CSS
 - JavaScript
 
-** Interests**
+**Interests**
 
 - Game Development
 - Artificial Intelligence
 - Web Development
 
-** Contact**
+**Contact**
 
 Email: bbelete730@gmail.com
 Telegram: @Tianrtsjitb5 
