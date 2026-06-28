@@ -26,4 +26,4 @@ Languages
  Contact
 
 Email: bbelete730@gmail.com
-LinkedIn:
+Telegram: @Tianrtsjitb5 
