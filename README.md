@@ -2,28 +2,26 @@ Hi 👋 I'm Bisrat.
 
 I'm an information science student.
 
-I enjoy building software, networking projects, and game development.
+I specialize in frontend web design, AI integration, and game development.
 
-Current Project
+**Current Project**
 
 Savor food review
 
-Languages
-
-
+**Languages**
 
 - C#
 - HTML
 - CSS
 - JavaScript
 
- Interests
+** Interests**
 
 - Game Development
 - Artificial Intelligence
 - Web Development
 
- Contact
+** Contact**
 
 Email: bbelete730@gmail.com
 Telegram: @Tianrtsjitb5 
